@@ -1,0 +1,1 @@
+printing the Ip addess for the instance 54.226.210.35 
