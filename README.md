@@ -4,4 +4,5 @@ We can use the provisioner whenever we are trying to create the resources they w
 
 * local-exec : Executes commands locally on the machine running Terraform, rather than on the resource itself.
 
-* remote-exec : remote servers. For this we need to make first connection and then we can install or update configuration changes to the server if required .
+* remote-exec : Executes commands on a remote resource, typically over SSH or WinRM.
+ For this we need to make first connection and then we can install or update configuration changes to the server if required .
