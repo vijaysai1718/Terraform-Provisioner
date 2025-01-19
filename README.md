@@ -1,6 +1,6 @@
 # Terraform-Provisioner
 
-We can use the provisioner whenever we are trying to create the resources they will not run once the resources are created.
+In Terraform, a provisioner is a feature used to execute scripts or commands on a local or remote machine as part of the resource creation or management process
 
 * local-exec : Executes commands locally on the machine running Terraform, rather than on the resource itself.
 
